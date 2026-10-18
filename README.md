@@ -1,5 +1,9 @@
 # TODO
 
+## Noticiero
+
+Lee los periodicos del dia y muestra  titulares de noticias, al pulsar sobre uno de ellos te lleva a un resumen de la noticia obtenido de diferentes fuentes (a ser posible politicamente opuestas), segun la verosimilitud de cada parrafo se mostrara en un color diferente. Al pie de la noticia la fuente de de la info obtenida. Los titulares de las noticias en la pagina principal tambien se muestran en colores segun verosimilitud y fuentes contrastadas.
+
 ## AcousticChat
 
 Aplicacion de chat, transmision de mensajes por audio (altavoz - microfono)
