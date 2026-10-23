@@ -1,5 +1,18 @@
 # TODO
 
+## TheFans
+App para informar y mantener a los fans de un grupo de musica (o equipo deportivo) informados y notificados. La app tiene:
+
+- Videos del musico
+- Agenda con eventos 
+- Posters 
+- Sorteos
+- Directos 
+- Enlaces a noticias
+- Chat de fans
+- tablón de anuncios?
+
+
 ## Noticiero
 
 Lee los periodicos del dia y muestra  titulares de noticias, al pulsar sobre uno de ellos te lleva a un resumen de la noticia obtenido de diferentes fuentes (a ser posible politicamente opuestas), segun la verosimilitud de cada parrafo se mostrara en un color diferente. Al pie de la noticia la fuente de de la info obtenida. Los titulares de las noticias en la pagina principal tambien se muestran en colores segun verosimilitud y fuentes contrastadas.
